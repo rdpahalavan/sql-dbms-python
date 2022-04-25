@@ -1,0 +1,4 @@
+CREATE TABLE R (A int, B int);
+
+
+SELECT A+B AS C FROM R;
