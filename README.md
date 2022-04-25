@@ -16,6 +16,6 @@ The database reads the data from **.dat** files. The **.dat** files contain a si
 
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/SQL%20Query%20Engine.png)
 
-nn
+The database reads one tuple at a time from the tables that are asked in the query. The tuples from different tables are merged into a single tuple based on the JOIN condition. Then, the columns in the tuple are compared for the WHERE condition, and if the comparison is met, the tuple is then printed to the output or stored in the memory for the final aggregation to be performed.
 
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/Relational%20Algebra%20Tree.png)
