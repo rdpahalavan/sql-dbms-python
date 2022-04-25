@@ -1,6 +1,6 @@
 # SQL Query Database Engine in Python
 
-Uses [sqlparse](https://github.com/andialbrecht/sqlparse) and [sql-metadata](https://github.com/macbre/sql-metadata) parsers to evaluate the SQL queries and print the result. Some additional features of SQL parser and translator are created in python for this project.
+Uses [`sqlparse`](https://github.com/andialbrecht/sqlparse) and [`sql-metadata`](https://github.com/macbre/sql-metadata) parsers to evaluate the SQL queries and print the result. Some additional features of SQL parser and translator are created in python for this project.
 
 Implemented SQL Operations
 - SELECT
@@ -19,3 +19,9 @@ The database reads the data from **.dat** files. The **.dat** files contain a si
 The database reads one tuple at a time from the tables that are asked in the query. The tuples from different tables are merged into a single tuple based on the JOIN condition. Then, the columns in the tuple are compared for the WHERE condition, and if the comparison is met, the tuple is then printed to the output or stored in the memory for the final aggregation to be performed. If the LIMIT is reached, the query execution will stop. The detailed query plan is given below:
 
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/Relational%20Algebra%20Tree.png)
+
+## Usage
+
+Clone this Git repository
+
+
