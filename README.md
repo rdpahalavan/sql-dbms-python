@@ -50,7 +50,9 @@ Note:
 To run a different query at the command line itself, use the format below:
 
 ```
-
+python3 DBMS.py data/ queries/Q1.SQL "SELECT SUM(A) FROM R WHERE B > 4;"
 ```
 
-
+Note:
+- Give the custom query next to the **.sql** file address
+- The given query will replace the first query present inside the **.sql** file
