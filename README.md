@@ -47,6 +47,13 @@ Note:
 - **data/** is the address of the folder where the **.dat** data files are located
 - **queries/Q1.SQL** is the address of the **.sql** file to be executed
 
+To save the output to the file,
+
+```
+python3 DBMS.py data/ queries/Q1.SQL > output.txt
+
+```
+
 To run a different query at the command line, use the format below:
 
 ```
