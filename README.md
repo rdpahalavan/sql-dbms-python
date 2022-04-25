@@ -14,11 +14,8 @@ Implemented SQL Operations
 
 The database reads the data from **.dat** files. The **.dat** files contain a single tuple at each line, with each column separated by pipe ( **|** ) symbol. The name of the data files is read from the CREATE statement.  The SQL query must be given using **.sql** file that consists of CREATE statements at the beginning for all tables and SELECT queries in each line. The sample **.dat** files are given in this repository under the **data** folder. The sample **.sql** files are provided under the **queries** folder.
 
-
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/SQL%20Query%20Engine.png)
 
-
 ## Relational Algebra Tree
-
 
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/Relational%20Algebra%20Tree.png)
