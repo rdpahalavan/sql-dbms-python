@@ -24,4 +24,6 @@ The database reads one tuple at a time from the tables that are asked in the que
 
 Clone this Git repository
 
+`git clone https://github.com/rdpahalavan/sql-dbms-python.git`
+
 
