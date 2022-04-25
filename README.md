@@ -56,3 +56,4 @@ python3 DBMS.py data/ queries/Q1.SQL "SELECT SUM(A) FROM R WHERE B > 4;"
 Note:
 - Give the custom query next to the **.sql** file address
 - The given query will replace the first SELECT query present inside the **.sql** file
+- This database engine supports only the type of queries given in the example files
