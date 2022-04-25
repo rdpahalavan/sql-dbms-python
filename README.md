@@ -28,4 +28,10 @@ Clone this Git repository
 git clone https://github.com/rdpahalavan/sql-dbms-python.git
 ```
 
+Change directory
+
+```
+cd sql-dbms-python
+```
+
 
