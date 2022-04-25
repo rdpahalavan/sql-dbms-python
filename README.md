@@ -34,4 +34,17 @@ Change directory
 cd sql-dbms-python
 ```
 
+### Running a query
+
+To run the queries stored in the **.sql** file, run the code below in the given format.
+
+```
+python3 DBMS.py data/ queries/Q1.SQL
+```
+
+Note:
+- **DMBS.py** is the main program file
+- **data/** is the folder where the **.dat** data files are located
+- **queries/Q1.SQL** is the address of the **.sql** file to be executed
+
 
