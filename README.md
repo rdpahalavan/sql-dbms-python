@@ -10,5 +10,7 @@ Implemented SQL Operations
 - AGGREGATION (SUM, MIN, MAX, AVG, COUNT)
 - ALIAS
 
-## Architecture
+## Architecture Diagram
+
+![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/SQL%20Query%20Engine.png)
 
