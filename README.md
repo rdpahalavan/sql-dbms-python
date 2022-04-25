@@ -16,6 +16,6 @@ The database reads the data from **.dat** files. The **.dat** files contain a si
 
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/SQL%20Query%20Engine.png)
 
-## Relational Algebra Tree
+nn
 
 ![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/Relational%20Algebra%20Tree.png)
