@@ -54,7 +54,7 @@ python3 DBMS.py data/ queries/Q1.SQL > output.txt
 
 ```
 
-Note: Add the address of the file that the result of the queries to be stored at the end
+Note: Add the address of the file that the result of the queries to be stored at the end of the command
 
 To run a different query at the command line, use the format below:
 
