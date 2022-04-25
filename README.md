@@ -34,7 +34,7 @@ Change directory
 cd sql-dbms-python
 ```
 
-### Running a query
+### Running SQL queries
 
 To run the queries stored in the **.sql** file, run the code below in the given format.
 
