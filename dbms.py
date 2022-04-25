@@ -432,7 +432,6 @@ def main(dataset_folder_path, sql_file_path):
     print_aggregate_result(select_function, final_list)
     print('')
 
-
 try:
   dataset_folder_path = sys.argv[1]
   sql_file_path = sys.argv[2]
