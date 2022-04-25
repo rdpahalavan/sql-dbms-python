@@ -4,7 +4,11 @@ Uses [sqlparse](https://github.com/andialbrecht/sqlparse) and [sql-metadata](htt
 
 Implemented SQL Operations
 - SELECT
-- WHERE
 - INNER JOIN
+- WHERE
 - LIMIT
 - AGGREGATION (SUM, MIN, MAX, AVG, COUNT)
+- ALIAS
+
+## Architecture
+
