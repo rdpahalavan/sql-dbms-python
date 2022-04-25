@@ -18,3 +18,4 @@ The database reads the data from **.dat** files. The **.dat** files contain a si
 
 ## Relational Algebra Tree
 
+![alt text](https://github.com/rdpahalavan/sql-dbms-python/blob/main/images/Relational%20Algebra%20Tree.png)
