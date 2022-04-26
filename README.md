@@ -39,7 +39,7 @@ cd sql-dbms-python
 To run the queries stored in the **.sql** file, run the code below in the given format.
 
 ```
-python3 dbms.py data/ queries/Q1.SQL
+python3 DBMS.py data/ queries/Q1.SQL
 ```
 
 Note:
@@ -50,7 +50,7 @@ Note:
 To save the output to the file,
 
 ```
-python3 dbms.py data/ queries/Q1.SQL > output.txt
+python3 DBMS.py data/ queries/Q1.SQL > output.txt
 ```
 
 Note: Add the address of the file that the result of the queries to be stored at the end of the command
@@ -58,7 +58,7 @@ Note: Add the address of the file that the result of the queries to be stored at
 To run a different query at the command line, use the format below:
 
 ```
-python3 dbms.py data/ queries/Q1.SQL "SELECT SUM(A) FROM R WHERE B > 4;"
+python3 DBMS.py data/ queries/Q1.SQL "SELECT SUM(A) FROM R WHERE B > 4;"
 ```
 
 Note:
